@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350312059457",
+    "project_id": "seguros-auto-79296",
+    "storage_bucket": "seguros-auto-79296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350312059457:android:0b25acc87397f06640ecc0",
+        "android_client_info": {
+          "package_name": "com.segurosautos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTyvE1KYt3ULTy4rYsUhZFuud16Jmffo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

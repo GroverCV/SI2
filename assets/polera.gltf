@@ -1,0 +1,172 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.4.0)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_specular",
+        "KHR_materials_volume",
+        "KHR_materials_ior",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 787162,
+            "type": "VEC3",
+            "max": [
+                318.29095458984375,
+                1540.897705078125,
+                151.05160522460938
+            ],
+            "min": [
+                -318.9231872558594,
+                893.4313354492188,
+                -149.05235290527344
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 787162,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                0.9999980926513672,
+                0.999999463558197
+            ],
+            "min": [
+                -0.9999995827674866,
+                -0.999996542930603,
+                -0.999999463558197
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 787162,
+            "type": "VEC2",
+            "max": [
+                4.334792137145996,
+                4.11952018737793
+            ],
+            "min": [
+                -2.1279959678649902,
+                -2.008584976196289
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 3575844,
+            "type": "SCALAR",
+            "max": [
+                787161
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 39492560,
+            "uri": "OBJ.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 9445944,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 9445944,
+            "byteLength": 9445944,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 18891888,
+            "byteLength": 6297296,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 25189184,
+            "byteLength": 14303376,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "Knit_Cotton_Jersey_FRONT_1950",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "extensions": {
+                "KHR_materials_specular": {
+                    "specularFactor": 1.0,
+                    "specularColorFactor": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "KHR_materials_ior": {
+                    "ior": 1.0
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Rib_2X2_468gsm_FRONT_1962.Material2303.Material2178.Material2303.Material2178.Material2303.Material2178.Material2303.Material2178.Material2303.defaultobject",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "OBJ.obj",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "defaultobject",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
